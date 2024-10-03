@@ -21,7 +21,7 @@ This is a Flask-based web application for license plate recognition. It allows u
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone (https://github.com/dfstmmn/Automatic-Number-Plate-Reader-Flask-/)
    cd your-repo-name
    ```
 
@@ -38,7 +38,7 @@ This is a Flask-based web application for license plate recognition. It allows u
 
 4. Run the application:
    ```
-   python app.py
+   python script.py
    ```
 
 5. Open a web browser and navigate to `http://localhost:5000`
@@ -53,11 +53,11 @@ This is a Flask-based web application for license plate recognition. It allows u
 
 ```
 plate-reader/
-├── app.py
+├── script.py
 ├── static/
 │   ├── styles/
 │   │   └── index.css
-│   │   └── index.css
+│   │   └── results.css
 │   └── uploads/
 ├── templates/
 │   ├── index.html
